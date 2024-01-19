@@ -410,7 +410,7 @@
     "name": "Tormenta RPG",
     "id": "TRPG_VTT",
     "socket": true,
-    "url": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT",
+    "url": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT/archive/refs/tags/4.5.zip",
     "title": "Tormenta RPG",
     "primaryTokenAttribute": "attributes.hp",
     "manifest": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT/blob/main/system.json",
