@@ -1,2 +1,0 @@
-### Bug Fixes
-- Small hotfixes
