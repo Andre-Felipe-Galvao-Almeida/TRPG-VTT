@@ -1,7 +1,7 @@
 {
     "initiative": "1d20 + @attributes.init.total + (@attributes.init.total / 100)",
     "gridDistance": 5,
-    "download": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT/archive/refs/tags/4.5.zip",
+    "download": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT/archive/refs/tags/4.6.zip",
     "templateVersion": 2,
     "gridUnits": "ft",
     "authors": [
