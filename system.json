@@ -148,259 +148,259 @@
         {
             "path": "./packs/classes",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "classes",
             "label": "Classes"
         },
         {
             "path": "./packs/minion-classes",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "minion-classes",
             "label": "Minion Classes"
         },
         {
             "path": "./packs/commonbuffs",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "commonbuffs",
             "label": "Common Buffs"
         },
         {
             "path": "./packs/spellItems",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "spell-items",
             "label": "Spell Items"
         },
         {
             "path": "./packs/commonauras",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "common-auras",
             "label": "Common Auras"
         },
         {
             "path": "./packs/itembuffs",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "item-buffs",
             "label": "Item Buffs"
         },
         {
             "path": "./packs/magic-items",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "magicitems",
             "label": "Magic Items"
         },
         {
             "path": "./packs/racialfeatures",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "racialfeatures",
             "label": "Races"
         },
         {
             "path": "./packs/racial-abilities",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "racial-abilities",
             "label": "Racial Abilities"
         },
         {
             "path": "./packs/natural-attacks",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "natural-attacks",
             "label": "Natural Attacks"
         },
         {
             "path": "./packs/class-abilities",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "class-abilities",
             "label": "Class Abilities"
         },
         {
             "path": "./packs/spell-like-abilities",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "spelllike",
             "label": "Spell-Like Abilities"
         },
         {
             "path": "./packs/spells",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "spells",
             "label": "Spells"
         },
         {
             "path": "./packs/spell-school-domain",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "spell-schools-domains",
             "label": "Spell Schools and Domains"
         },
         {
             "path": "./packs/templates",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "templates",
             "label": "Templates"
         },
         {
             "path": "./packs/powers",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "powers",
             "label": "Powers"
         },
         {
             "path": "./packs/feats",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "feats",
             "label": "Feats"
         },
         {
             "path": "./packs/items",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "items",
             "label": "Items"
         },
         {
             "path": "./packs/armors-and-shields",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "armors-and-shields",
             "label": "Armor and Shields"
         },
         {
             "path": "./packs/enhancements",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "enhancements",
             "label": "Enhancements"
         },
         {
             "path": "./packs/weapons-and-ammo",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "weapons-and-ammo",
             "label": "Weapons and Ammo"
         },
         {
             "path": "./packs/racial-hd",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "racialhd",
             "label": "Racial HD"
         },
         {
             "path": "./packs/materials",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "materials",
             "label": "Materials"
         },
         {
             "path": "./packs/damage-types",
             "type": "Item",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "damage-types",
             "label": "Damage Types"
         },
         {
             "path": "./packs/srd-rules",
             "type": "JournalEntry",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "srd-rules",
             "label": "SRD Rules Extended Descriptions"
         },
         {
             "path": "./packs/sample-macros",
             "type": "Macro",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "sample-macros",
             "label": "Sample Macros"
         },
         {
             "path": "./packs/roll-tables",
             "type": "RollTable",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "roll-tables",
             "label": "Roll Tables"
         },
         {
             "path": "./packs/item-roll-tables",
             "type": "RollTable",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "item-roll-tables",
             "label": "Item Roll Tables"
         },
         {
             "path": "./packs/summoning-roll-tables",
             "type": "RollTable",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "summoning-roll-tables",
             "label": "Summoning Roll Tables"
         },
         {
             "path": "./packs/bestiary",
             "type": "Actor",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "bestiary",
             "label": "Bestiary"
         },
         {
             "path": "./packs/minions",
             "type": "Actor",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "minion",
             "label": "Minions (Familiars, Animal Companions)"
         },
         {
             "path": "./packs/sample-chars",
             "type": "Actor",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "sample-chars",
             "label": "Sample Characters"
         },
         {
             "path": "./packs/summon",
             "type": "Actor",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "summon",
             "label": "Summoned Bestiary"
         },
         {
             "path": "./packs/traps",
             "type": "Actor",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "traps",
             "label": "Traps"
         },
         {
             "path": "./packs/conditions",
             "type": "JournalEntry",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "conditions",
             "label": "Conditions"
         },
         {
             "path": "./packs/documentation",
             "type": "JournalEntry",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "docs",
             "label": "Documentation"
         },
         {
             "path": "./packs/scenes",
             "type": "Scene",
-            "system": "D35E",
+            "system": "TRPG_VTT",
             "name": "scenes",
             "label": "Scenes"
         }
@@ -411,7 +411,7 @@
     "id": "TRPG_VTT",
     "socket": true,
     "url": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT",
-    "title": "3.5e SRD",
+    "title": "Tormenta RPG",
     "primaryTokenAttribute": "attributes.hp",
     "manifest": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT/blob/main/system.json",
     "compatibility": {
