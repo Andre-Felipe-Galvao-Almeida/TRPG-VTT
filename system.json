@@ -1,7 +1,7 @@
 {
     "initiative": "1d20 + @attributes.init.total + (@attributes.init.total / 100)",
     "gridDistance": 5,
-    "download": "https://www.legaciesofthedragon.com/D35E/dnd35e.zip",
+    "download": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT",
     "templateVersion": 2,
     "gridUnits": "ft",
     "authors": [
@@ -407,13 +407,13 @@
     ],
     "scripts": [],
     "secondaryTokenAttribute": null,
-    "name": "D35E",
-    "id": "D35E",
+    "name": "Tormenta RPG",
+    "id": "TRPG_VTT",
     "socket": true,
-    "url": "https://www.legaciesofthedragon.com",
+    "url": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT",
     "title": "3.5e SRD",
     "primaryTokenAttribute": "attributes.hp",
-    "manifest": "https://www.legaciesofthedragon.com/D35E/system.json",
+    "manifest": "https://github.com/Andre-Felipe-Galvao-Almeida/TRPG-VTT/blob/main/system.json",
     "compatibility": {
         "minimum": "11.309",
         "verified": "11.311"
